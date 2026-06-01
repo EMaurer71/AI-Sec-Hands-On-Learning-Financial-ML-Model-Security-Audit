@@ -2,6 +2,8 @@
 
 This folder contains the full CryptoTrade Pro security audit and remediation project.  
 This is the final graded lab for the course.
+The src folder contains Ai recreted files that should complete the lab as the originals are nto avialble for download.
+If that is what you need, feel free to copy those files.
 
 ## Purpose
 Perform a complete AI/ML security audit of a breached trading platform, including:
